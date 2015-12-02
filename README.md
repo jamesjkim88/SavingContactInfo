@@ -1,1 +1,1 @@
-- Install Angular and Angular-UI-Router to run
+- Install Angular, Angular-UI-Router, and Mongoose to run
