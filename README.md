@@ -1,1 +1,1 @@
-- Install Passport, Passport GoogleOAuth, Express-Session, and Mongoose to run.
+- Install Angular and Angular-UI-Router to run
