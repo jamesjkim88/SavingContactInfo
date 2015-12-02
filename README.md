@@ -1,0 +1,1 @@
+- Install Passport, Passport GoogleOAuth, Express-Session, and Mongoose to run.
